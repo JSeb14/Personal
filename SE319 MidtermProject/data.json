@@ -1,0 +1,139 @@
+{
+    "adopt": [
+        {
+            "animal": "cat",
+            "name": "Garfield",
+            "age": "5 years",
+            "description": "Garfield is a bit of a shy cat, but he still enjoys attention. He loves to explore outside and search for food.",
+            "image": "./images/pets/cat1.jpg"
+        },
+        {
+            "animal": "dog",
+            "name": "Gus",
+            "age": "7 years",
+            "description": "Gus may be older, but he still loves to go for walks and spend outside.",
+            "image": "./images/pets/dog3.jpg"
+        },
+        {
+            "animal": "cat",
+            "name": "Hobbs",
+            "age": "3 years",
+            "description": "Hobbs loves to sit in the sun and take naps all day. The Office is his favorite show.",
+            "image": "./images/pets/cat2.jpg"
+        },
+        {
+            "animal": "dog",
+            "name": "Max",
+            "age": "3 years",
+            "description": "Max loves to explore outside. He also loves peanut butter.",
+            "image": "./images/pets/dog1.jpg"
+        },
+        {
+            "animal": "cat",
+            "name": "Winston",
+            "age": "1 years",
+            "description": "Winston is super friendly, and loves to play. He gets along super well with other cats.",
+            "image": "./images/pets/cat4.jpg"
+        },
+        {
+            "animal": "dog",
+            "name": "Bruce",
+            "age": "4 years",
+            "description": "Bruce gets along great with the other dogs. There isn't someone whom he won't befriend.",
+            "image": "./images/pets/dog2.jpg"
+        },
+        {
+            "animal": "cat",
+            "name": "Matilda",
+            "age": "6 years",
+            "description": "Maltilda is a bit of a calmer cat, as she is a bit older in age. She still loves cuddles though.",
+            "image": "./images/pets/cat3.jpg"
+        },
+        {
+            "animal": "dog",
+            "name": "Spot",
+            "age": "4 years",
+            "description": "Spot is a little shy around new people, but warms up to you very quickly. She loves to watch movies.",
+            "image": "./images/pets/dog4.jpg"
+        }
+    ],
+    "shop": [
+        {
+            "type": "food",
+            "animal": "dog",
+            "title": "Biscuit Treats",
+            "price": "$9.99",
+            "image": "./images/shop/dog-food-1.jpg"
+        },
+        {
+            "type": "toy",
+            "animal": "cat",
+            "title": "Blue Snake Toy",
+            "price": "$2.99",
+            "image": "./images/shop/cat-toy-2.jpg"
+        },
+        {
+            "type": "food",
+            "animal": "cat",
+            "title": "Cat Treats",
+            "price": "$6.99",
+            "image": "./images/shop/cat-food-1.jpg"
+        },
+        {
+            "type": "food",
+            "animal": "dog",
+            "title": "Deluxe Kibble- Chicken Flavor",
+            "price": "$14.99",
+            "image": "./images/shop/dog-food-2.jpg"
+        },
+        {
+            "type": "food",
+            "animal": "dog",
+            "title": "Dog Bone",
+            "price": "$4.99",
+            "image": "./images/shop/dog-food-3.jpg"
+        },
+        {
+            "type": "food",
+            "animal": "cat",
+            "title": "Kibble- Tuna Flavor",
+            "price": "$13.99",
+            "image": "./images/shop/cat-food-2.jpg"
+        },
+        {
+            "type": "toy",
+            "animal": "dog",
+            "title": "Purple Ball",
+            "price": "$5.89",
+            "image": "./images/shop/dog-toy-1.jpg"
+        },
+        {
+            "type": "toy",
+            "animal": "dog",
+            "title": "Red Squeaker",
+            "price": "$3.49",
+            "image": "./images/shop/dog-toy-2.jpg"
+        },
+        {
+            "type": "toy",
+            "animal": "cat",
+            "title": "Stuffed Animal",
+            "price": "$8.99",
+            "image": "./images/shop/cat-toy-3.jpg"
+        },
+        {
+            "type": "toy",
+            "animal": "dog",
+            "title": "White String Toy",
+            "price": "$6.99",
+            "image": "./images/shop/dog-toy-3.jpg"
+        },
+        {
+            "type": "toy",
+            "animal": "cat",
+            "title": "Yarn Ball",
+            "price": "$3.99",
+            "image": "./images/shop/cat-toy-1.jpg"
+        }
+    ]
+}
